@@ -1,0 +1,18 @@
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #f6ff00; }
+
+
+body {
+    font-weight: 300;
+    color: #444;
+    background-color: #fff; }
+
+.columns {
+  background-color: #fff;
+}

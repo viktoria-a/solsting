@@ -1,0 +1,27 @@
+{
+  "name": "solsting",
+  "homepage": "https://github.com/viktoria-a/solsting",
+  "authors": [
+    "Hanneybadger <hwillen@gmail.com>"
+  ],
+  "description": "weather and cities and sickness",
+  "main": "index.html",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "sol"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist": "^0.9.7"
+  }
+}
