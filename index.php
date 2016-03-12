@@ -80,6 +80,84 @@
         <div id="container" style="width:100%; height:400px;"></div>
         <script>
         $(function () {
+          //Theme here:
+          Highcharts.setOptions({
+              colors: ['#8bb0cb', '#394d7e', '#edc302', '#DDDF00', '#24CBE5',
+              '#64E572', '#FF9655', '#FFF263', '#6AF9C4'],
+              chart: {
+                  backgroundColor: {
+                      linearGradient: [0, 0, 500, 500],
+                      stops: [
+                          [0, 'rgb(255, 255, 255)'],
+                          [1, 'rgb(255, 255, 255)']
+                      ]
+                  },
+                  borderWidth: 0,
+                  plotBackgroundColor: 'rgba(255, 255, 255, .9)',
+                  plotShadow: false,
+                  plotBorderWidth: 1
+              },
+              subtitle: {
+                  style: {
+                  }
+              },
+              xAxis: {
+                  gridLineWidth: 0,
+                  lineColor: '#ddd',
+                  tickColor: '#ddd',
+                  labels: {
+                      style: {
+
+                      }
+                  },
+                  title: {
+                      style: {
+
+                      }
+                  }
+              },
+              yAxis: {
+                  alternateGridColor: null,
+                  minorTickInterval: 'auto',
+                  lineColor: '#fff',
+                  lineWidth: 0,
+                  tickWidth: 0,
+                  tickColor: '#fff',
+                  labels: {
+                      style: {
+
+                      }
+                  },
+                  title: {
+                      style: {
+                          color: '#ddd',
+                      }
+                  }
+              },
+              legend: {
+                  itemStyle: {
+
+                  },
+                  itemHoverStyle: {
+                      color: '#039'
+                  },
+                  itemHiddenStyle: {
+                      color: 'gray'
+                  }
+              },
+              credits: {
+                  style: {
+                      right: '10px'
+                  }
+              },
+              labels: {
+                  style: {
+                      color: '#99b'
+                  }
+              }
+          });
+
+          //Chart:
             $('#container').highcharts({
                 chart: {
                     zoomType: 'xy'
