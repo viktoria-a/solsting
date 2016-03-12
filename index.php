@@ -263,6 +263,29 @@ Din socioekonomiska status spelar roll. Vädersjuk.se visar om även vädret dä
       </div>
     </div>
 
+    <div class="row">
+      <div class="eight columns" style="margin-top: 5%">
+        <p>
+        <b>Sjukfall</b> hämtas från Försäkringskassans data över pågående sjukfall. Sjukfall summeras en gång per år. Du räknas som ett pågående sjukfall om du har varit sjukskriven i minst 14 dagar och är mellan 16-65 år. Datan summeras en gång per år. I diagrammet visas sjukfallen per 10 000 invånare i respektive kommun som städerna ligger i. 
+
+<b>Nederbörd</b> hämtas från SMHI:s väderstationer i samma kommuner som städerna. Nederbörd i mm per år. 
+
+<b>Soltimmar</b> är från SMHI:s väderstationer som mäter sol och ligger i samma kommun som städerna. Soltimmar visar antalet soltimmar per år. SMHI mäter solsken på 18 platser i Sverige. Städerna har valts efter närhet till stationer som mäter både nederbörd och sol.   
+
+All data är från år 2014. 
+
+Om vädersjuk.se
+
+Vädersjuk.se skapades under <a href="http://www.hackforsweden.se">Hack for Sweden 2016</a> av <a href="https://se.linkedin.com/in/sasvensson">Sandra Svensson</a>, <a href="https://twitter.com/viktoriaasp">Viktoria Asp</a> och <a href="https://se.linkedin.com/in/hannahwillen">Hannah Willén</a>. Datakällorna vi har använt är SMHI, SCB och Försäkringskassan. 
+</p>
+
+      </div>
+
+      <div class="four columns" style="margin-top: 5%">
+      </div>
+    </div>
+
+
 </div>
 
 <script src="bower_components/chartist/dist/chartist.min.js"></script>
