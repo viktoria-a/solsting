@@ -7,7 +7,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Solsting</title>
+  <title>Vädersjuk</title>
 
   <meta name="description" content="">
   <meta name="author" content="">
@@ -59,11 +59,7 @@
 
 <!-- TEXTEN HEJ –––––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <h6>Under 2014 hade Visby mest sol i hela Sverige och Göteborg hade överlägset mest regn. Påverkar soltimmarna och nedbörden antalet sjukfall som respektive stad har? Nio städer har valts ut för att undersöka sambandet mellan vädret och antalet sjukfall. </h6>
-
-        <p>Det finns många anledningar till att människor blir sjukskrivna. Det kan till exempel vara konsekvensen av en sjukdom eller en  olycka. 
-Det finns skillnader i sjukskrivningsstatistiken. Kvinnor är mer sjukskrivna än män. Antalet sjukskrivna varierar också mellan Sveriges regioner. 
-Din socioekonomiska status spelar roll. Vädersjuk.se visar om även vädret där du bor kan påverka hur du mår. </p>
+        <h6>Under ett år hade Visby mest sol i hela Sverige och Göteborg hade överlägset mest regn. Påverkar soltimmarna och nedbörden antalet sjukfall som respektive stad har? Nio städer har valts ut för att undersöka sambandet mellan vädret och antalet sjukfall. </h6>
 
       </div>
 
@@ -265,18 +261,27 @@ Din socioekonomiska status spelar roll. Vädersjuk.se visar om även vädret dä
 
     <div class="row">
       <div class="eight columns" style="margin-top: 5%">
+
+        <p>Det finns många anledningar till att människor blir sjukskrivna. Det kan till exempel vara konsekvensen av en sjukdom eller en  olycka. 
+Det finns skillnader i sjukskrivningsstatistiken. Kvinnor är mer sjukskrivna än män. Antalet sjukskrivna varierar också mellan Sveriges regioner. 
+Din socioekonomiska status spelar roll. Vädersjuk.se visar om även vädret där du bor kan påverka hur du mår. </p>
         <p>
         <b>Sjukfall</b> hämtas från Försäkringskassans data över pågående sjukfall. Sjukfall summeras en gång per år. Du räknas som ett pågående sjukfall om du har varit sjukskriven i minst 14 dagar och är mellan 16-65 år. Datan summeras en gång per år. I diagrammet visas sjukfallen per 10 000 invånare i respektive kommun som städerna ligger i. 
+        </p>
+        <p>
 
 <b>Nederbörd</b> hämtas från SMHI:s väderstationer i samma kommuner som städerna. Nederbörd i mm per år. 
+</p>
+<p>
 
 <b>Soltimmar</b> är från SMHI:s väderstationer som mäter sol och ligger i samma kommun som städerna. Soltimmar visar antalet soltimmar per år. SMHI mäter solsken på 18 platser i Sverige. Städerna har valts efter närhet till stationer som mäter både nederbörd och sol.   
+</p>
 
-All data är från år 2014. 
+<p>All data är från år 2014. Datakällorna som har använts är SMHI, SCB och Försäkringskassan. </p>
 
-Om vädersjuk.se
+<h6>Om vädersjuk.se</h6>
 
-Vädersjuk.se skapades under <a href="http://www.hackforsweden.se">Hack for Sweden 2016</a> av <a href="https://se.linkedin.com/in/sasvensson">Sandra Svensson</a>, <a href="https://twitter.com/viktoriaasp">Viktoria Asp</a> och <a href="https://se.linkedin.com/in/hannahwillen">Hannah Willén</a>. Datakällorna vi har använt är SMHI, SCB och Försäkringskassan. 
+Vädersjuk.se skapades under <a href="http://www.hackforsweden.se">Hack for Sweden 2016</a> av <a href="https://se.linkedin.com/in/sasvensson">Sandra Svensson</a>, <a href="https://twitter.com/viktoriaasp">Viktoria Asp</a> och <a href="https://se.linkedin.com/in/hannahwillen">Hannah Willén</a>. 
 </p>
 
       </div>
