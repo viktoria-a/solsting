@@ -59,7 +59,7 @@
 
 <!-- TEXTEN HEJ –––––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-        <h4>Under 2014 hade Visby mest sol i hela Sverige och Göteborg hade överlägset mest regn. Påverkar soltimmarna och nedbörden antalet sjukfall som respektive stad har? Nio städer har valts ut för att undersöka sambandet mellan vädret och antalet sjukfall. </h4>
+        <h6>Under 2014 hade Visby mest sol i hela Sverige och Göteborg hade överlägset mest regn. Påverkar soltimmarna och nedbörden antalet sjukfall som respektive stad har? Nio städer har valts ut för att undersöka sambandet mellan vädret och antalet sjukfall. </h6>
 
         <p>Det finns många anledningar till att människor blir sjukskrivna. Det kan till exempel vara konsekvensen av en sjukdom eller en  olycka. 
 Det finns skillnader i sjukskrivningsstatistiken. Kvinnor är mer sjukskrivna än män. Antalet sjukskrivna varierar också mellan Sveriges regioner. 
