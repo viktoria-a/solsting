@@ -15,7 +15,6 @@
   ],
   "license": "MIT",
   "ignore": [
-
   ],
   "dependencies": {
     "chartist": "^0.9.7"

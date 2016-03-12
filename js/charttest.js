@@ -1,5 +1,5 @@
 new Chartist.Line('.ct-chart', {
-  labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+  labels: ['Falun', 'Gävle', 'Göteborg', 'Halmstad', 'Härnosand', 'Jönköping', 'Kalmar', 'Karlskrona', 'Karlstad', 'Linköping', 'Luleå', 'Malmö', 'Nyköping', 'Stockholm', 'Umeå', 'Uppsala', 'Visby', 'Västerås', 'Växjö', 'Örebro', 'Östersund'],
   series: [
     [12, 9, 7, 8, 5],
     [2, 1, 3.5, 7, 3],
