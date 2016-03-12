@@ -7,7 +7,6 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   color: #f6ff00; }
 
-
 body {
     font-weight: 300;
     color: #444;
@@ -15,4 +14,26 @@ body {
 
 .columns {
   background-color: #fff;
+}
+
+/* Chart
+––––––––––––––––––––––––––––––––––––––––––––––––– */
+#container text {
+  font-family: "Raleway" !important;
+  font-weight: 300 !important;
+  background-color: #000 !important;
+}
+
+.chart: {
+  background-color: #000 !important;
+}
+
+.highcharts-yaxis-labels text
+{
+   color: #000 !important;
+}
+
+.highcharts-series-0 text
+{
+  color-fill: #000 !important;
 }

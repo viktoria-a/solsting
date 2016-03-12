@@ -1,9 +1,13 @@
-Göteborg
-Karlskrona
-Karlstad
-Luleå
-Stockholm
-Umeå
-Visby
-Växjö
-Östersund
+1 Göteborg
+2 Karlskrona
+3 Karlstad
+4 Luleå
+5 Stockholm regn 614 mm
+6 Umeå
+7 Visby
+8 Växjö
+9 Östersund
+
+1835, 2121, 1986, 2071, 1805, 1871, 2107, 1612, 1790,
+
+1095, 700, 979, 361, 614, 541, 540, 732, 505
