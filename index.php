@@ -17,7 +17,7 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="https://fonts.googleapis.com/css?family=Raleway:100,900,300" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:600,900,300" rel="stylesheet" type="text/css">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -53,26 +53,20 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
     <div class="row">
-      <div class="twelve columns" style="margin-top: 10%">
+      <div class="eight columns" style="margin-top: 5%">
         <h1>Är du vädersjuk?</h1>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
-      </div>
-    </div>
 
-<!-- CHARTIST CHART IS HERE:
-    <div class="row">
-      <div class="twelve columns ct-chart">
-      </div>
-    </div>
+<!-- TEXTEN HEJ –––––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <div class="row">
-      <div class="twelve columns">
-        <p>
-          Next one from highcharts:
-        </p>
+        <h4>INGRESS HÄR </h4>
+
+        <p>LÅNG TEXT HÄR.</p>
+
+      </div>
+
+      <div class="four columns" style="margin-top: 5%">
       </div>
     </div>
--->
 
     <div class="row">
       <div class="twelve columns">
@@ -166,7 +160,6 @@
                     text: ' '
                 },
                 subtitle: {
-                    text: 'Källor: SMHI, SCB & Försäkringskassan'
                 },
                 xAxis: [{
                     categories: ['Göteborg', 'Karlskrona', 'Karlstad', 'Luleå', 'Stockholm', 'Umeå', 'Visby', 'Växjö', 'Östersund'],
