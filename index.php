@@ -263,13 +263,10 @@
       <div class="eight columns" style="margin-top: 5%">
 
         <p>Det finns många anledningar till att människor blir sjukskrivna.
-<<<<<<< HEAD
-          Det finns också skillnader i sjukskrivningsstatistiken. Bakgrunden till skillnaderna är komplex, men vi vet några saker som påverkar. Vilket kön du har, vilket yrke du har och var du bor påverkar. 
+          Det finns också skillnader i sjukskrivningsstatistiken. Bakgrunden till skillnaderna är komplex, men vi vet några saker som påverkar. Vilket kön du har, vilket yrke du har och var du bor påverkar.
       Vädersjuk visar om även vädret där du bor kan påverka hur du mår. </p>
-=======
           Det finns också skillnader i sjukskrivningsstatistiken. Bakgrunden till skillnaderna är komplex, men vi vet några saker som påverkar. Vilket kön du har, vilket yrke du har och var du bor påverkar.
       Vädersjuk.se visar om även vädret där du bor kan påverka hur du mår. </p>
->>>>>>> origin/master
         <p>
         <b>Sjukfall</b> hämtas från Försäkringskassans data över pågående sjukfall. Du räknas som ett pågående sjukfall om du har varit sjukskriven i minst 14 dagar och är mellan 16-65 år. Datan summeras en gång per år. I diagrammet visas sjukfallen per 10 000 invånare i respektive kommun som städerna ligger i.
         </p>
@@ -296,14 +293,14 @@ Vädersjuk.se skapades av <a href="https://se.linkedin.com/in/sasvensson">Sandra
     </div>
 
 <div class="row">
-    <div class="four columns u-max-full-width">
-      <img src="images/gras.jpg">
+    <div class="four columns">
+      <img class"u-max-full-width" src="images/gras.jpg">
     </div>
-    <div class="four columns u-max-full-width">
-      <img src="images/snow.jpg">
+    <div class="four columns">
+      <img class"u-max-full-width" src="images/snow.jpg">
     </div>
-    <div class="four columns u-max-full-width">
-      <img src="images/sun.jpg">
+    <div class="four columns">
+      <img class"u-max-full-width" src="images/sun.jpg">
     </div>
 </div>
 
