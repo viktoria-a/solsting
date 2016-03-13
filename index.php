@@ -262,26 +262,26 @@
     <div class="row">
       <div class="eight columns" style="margin-top: 5%">
 
-        <p>Det finns många anledningar till att människor blir sjukskrivna. Det kan till exempel vara konsekvensen av en sjukdom eller en  olycka. 
-Det finns skillnader i sjukskrivningsstatistiken. Kvinnor är mer sjukskrivna än män. Antalet sjukskrivna varierar också mellan Sveriges regioner. 
-Din socioekonomiska status spelar roll. Vädersjuk.se visar om även vädret där du bor kan påverka hur du mår. </p>
+        <p>Det finns många anledningar till att människor blir sjukskrivna.
+          Det finns också skillnader i sjukskrivningsstatistiken. Bakgrunden till skillnaderna är komplex, men vi vet några saker som påverkar. Vilket kön du har, vilket yrke du har och var du bor påverkar. 
+      Vädersjuk.se visar om även vädret där du bor kan påverka hur du mår. </p>
         <p>
-        <b>Sjukfall</b> hämtas från Försäkringskassans data över pågående sjukfall. Sjukfall summeras en gång per år. Du räknas som ett pågående sjukfall om du har varit sjukskriven i minst 14 dagar och är mellan 16-65 år. Datan summeras en gång per år. I diagrammet visas sjukfallen per 10 000 invånare i respektive kommun som städerna ligger i. 
+        <b>Sjukfall</b> hämtas från Försäkringskassans data över pågående sjukfall. Du räknas som ett pågående sjukfall om du har varit sjukskriven i minst 14 dagar och är mellan 16-65 år. Datan summeras en gång per år. I diagrammet visas sjukfallen per 10 000 invånare i respektive kommun som städerna ligger i. 
         </p>
         <p>
 
-<b>Nederbörd</b> hämtas från SMHI:s väderstationer i samma kommuner som städerna. Nederbörd i mm per år. 
+<b>Nederbörd</b> hämtas från SMHI:s väderstationer i samma kommuner som städerna. I diagrammet visas nederbörd i mm per år. 
 </p>
 <p>
 
-<b>Soltimmar</b> är från SMHI:s väderstationer som mäter sol och ligger i samma kommun som städerna. Soltimmar visar antalet soltimmar per år. SMHI mäter solsken på 18 platser i Sverige. Städerna har valts efter närhet till stationer som mäter både nederbörd och sol.   
+<b>Soltimmar</b> är från SMHI:s väderstationer som mäter sol och ligger i samma kommun som städerna. Soltimmar visar antalet soltimmar per år. SMHI mäter solsken på 18 platser i Sverige.  
 </p>
 
-<p>All data är från år 2014. Datakällorna som har använts är SMHI, SCB och Försäkringskassan. </p>
+<p>Städerna har valts efter närhet till stationer som mäter både nederbörd och sol.  All data är från år 2014. Datakällorna som har använts är SMHI, SCB och Försäkringskassan. </p>
 
 <h6>Om vädersjuk.se</h6>
 
-Vädersjuk.se skapades under <a href="http://www.hackforsweden.se">Hack for Sweden 2016</a> av <a href="https://se.linkedin.com/in/sasvensson">Sandra Svensson</a>, <a href="https://twitter.com/viktoriaasp">Viktoria Asp</a> och <a href="https://se.linkedin.com/in/hannahwillen">Hannah Willén</a>. 
+Vädersjuk.se skapades av <a href="https://se.linkedin.com/in/sasvensson">Sandra Svensson</a>, <a href="https://twitter.com/viktoriaasp">Viktoria Asp</a> och <a href="https://se.linkedin.com/in/hannahwillen">Hannah Willén</a> under <a href="http://www.hackforsweden.se">Hack for Sweden 2016</a>. 
 </p>
 
       </div>
