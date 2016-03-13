@@ -294,13 +294,13 @@ Vädersjuk.se skapades av <a href="https://se.linkedin.com/in/sasvensson">Sandra
 
 <div class="row">
     <div class="four columns">
-      <img class"u-max-full-width" src="images/gras.jpg">
+      <img class="u-max-full-width" src="images/gras.jpg">
     </div>
     <div class="four columns">
-      <img class"u-max-full-width" src="images/snow.jpg">
+      <img class="u-max-full-width" src="images/snow.jpg">
     </div>
     <div class="four columns">
-      <img class"u-max-full-width" src="images/sun.jpg">
+      <img class="u-max-full-width" src="images/sun.jpg">
     </div>
 </div>
 
